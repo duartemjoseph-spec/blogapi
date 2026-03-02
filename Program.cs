@@ -1,4 +1,5 @@
 using blogapi.Services;
+using blogapi.Services.Context;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,7 +13,7 @@ builder.Services.AddScoped<PasswordService>();
 builder.Services.AddScoped<UserService>();
 
 var connectionString = builder.Configuration.GetConnectionString("myBlogString2");
-builder.Services.AddDbContext<DataContext>(options => options.UseSqlServer(connectionString));
+builder.Services.AddDbContext<Context>(options => options.UseSqlServer(connectionString));
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

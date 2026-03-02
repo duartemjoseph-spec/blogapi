@@ -4915,11 +4915,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desktop\\blogapi\\blogapi.csproj",
+      "projectUniqueName": "C:\\Codestack lectures\\blogapi\\blogapi.csproj",
       "projectName": "blogapi",
-      "projectPath": "C:\\Desktop\\blogapi\\blogapi.csproj",
+      "projectPath": "C:\\Codestack lectures\\blogapi\\blogapi.csproj",
       "packagesPath": "C:\\Users\\littl\\.nuget\\packages\\",
-      "outputPath": "C:\\Desktop\\blogapi\\obj\\",
+      "outputPath": "C:\\Codestack lectures\\blogapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\littl\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5004,7 +5004,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
