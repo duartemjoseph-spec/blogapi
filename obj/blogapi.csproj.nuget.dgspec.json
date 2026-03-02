@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Codestack lectures\\blogapi\\blogapi.csproj": {}
+    "C:\\Desktop\\blogapi\\blogapi.csproj": {}
   },
   "projects": {
-    "C:\\Codestack lectures\\blogapi\\blogapi.csproj": {
+    "C:\\Desktop\\blogapi\\blogapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Codestack lectures\\blogapi\\blogapi.csproj",
+        "projectUniqueName": "C:\\Desktop\\blogapi\\blogapi.csproj",
         "projectName": "blogapi",
-        "projectPath": "C:\\Codestack lectures\\blogapi\\blogapi.csproj",
+        "projectPath": "C:\\Desktop\\blogapi\\blogapi.csproj",
         "packagesPath": "C:\\Users\\littl\\.nuget\\packages\\",
-        "outputPath": "C:\\Codestack lectures\\blogapi\\obj\\",
+        "outputPath": "C:\\Desktop\\blogapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\littl\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -96,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
