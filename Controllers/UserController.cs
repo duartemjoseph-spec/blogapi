@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace blogapi.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     public class UserController : ControllerBase
     {
         //inject the user service here and use it to handle user-related requests

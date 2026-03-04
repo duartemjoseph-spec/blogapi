@@ -1,42 +1,12 @@
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\appsettings.Development.json
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\appsettings.json
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\blogapi.staticwebassets.endpoints.json
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\blogapi.exe
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\blogapi.deps.json
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\blogapi.runtimeconfig.json
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\blogapi.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\blogapi.pdb
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.OpenApi.dll
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\blogapi.csproj.AssemblyReference.cache
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\rpswa.dswa.cache.json
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\blogapi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\blogapi.AssemblyInfoInputs.cache
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\blogapi.AssemblyInfo.cs
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\blogapi.csproj.CoreCompileInputs.cache
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\blogapi.MvcApplicationPartsAssemblyInfo.cs
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\blogapi.MvcApplicationPartsAssemblyInfo.cache
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\blogapi.sourcelink.json
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\rjimswa.dswa.cache.json
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\scopedcss\bundle\blogapi.styles.css
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\staticwebassets.build.json
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\staticwebassets.build.json.cache
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\staticwebassets.development.json
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\blogapi.csproj.Up2Date
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\blogapi.dll
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\refint\blogapi.dll
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\blogapi.pdb
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\blogapi.genruntimeconfig.cache
-C:\Codestack lectures\blogapi\obj\Debug\net9.0\ref\blogapi.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
+C:\Desktop\blogapi\obj\Debug\net9.0\blogapi.csproj.AssemblyReference.cache
+C:\Desktop\blogapi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Desktop\blogapi\obj\Debug\net9.0\blogapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\blogapi\obj\Debug\net9.0\blogapi.AssemblyInfoInputs.cache
+C:\Desktop\blogapi\obj\Debug\net9.0\blogapi.AssemblyInfo.cs
+C:\Desktop\blogapi\obj\Debug\net9.0\blogapi.csproj.CoreCompileInputs.cache
+C:\Desktop\blogapi\obj\Debug\net9.0\blogapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Desktop\blogapi\obj\Debug\net9.0\blogapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Desktop\blogapi\obj\Debug\net9.0\blogapi.sourcelink.json
 C:\Desktop\blogapi\bin\Debug\net9.0\appsettings.Development.json
 C:\Desktop\blogapi\bin\Debug\net9.0\appsettings.json
 C:\Desktop\blogapi\bin\Debug\net9.0\blogapi.staticwebassets.endpoints.json
@@ -171,15 +141,6 @@ C:\Desktop\blogapi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Commo
 C:\Desktop\blogapi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Desktop\blogapi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Desktop\blogapi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Desktop\blogapi\obj\Debug\net9.0\blogapi.csproj.AssemblyReference.cache
-C:\Desktop\blogapi\obj\Debug\net9.0\rpswa.dswa.cache.json
-C:\Desktop\blogapi\obj\Debug\net9.0\blogapi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Desktop\blogapi\obj\Debug\net9.0\blogapi.AssemblyInfoInputs.cache
-C:\Desktop\blogapi\obj\Debug\net9.0\blogapi.AssemblyInfo.cs
-C:\Desktop\blogapi\obj\Debug\net9.0\blogapi.csproj.CoreCompileInputs.cache
-C:\Desktop\blogapi\obj\Debug\net9.0\blogapi.MvcApplicationPartsAssemblyInfo.cs
-C:\Desktop\blogapi\obj\Debug\net9.0\blogapi.MvcApplicationPartsAssemblyInfo.cache
-C:\Desktop\blogapi\obj\Debug\net9.0\blogapi.sourcelink.json
 C:\Desktop\blogapi\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Desktop\blogapi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Desktop\blogapi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -194,130 +155,3 @@ C:\Desktop\blogapi\obj\Debug\net9.0\refint\blogapi.dll
 C:\Desktop\blogapi\obj\Debug\net9.0\blogapi.pdb
 C:\Desktop\blogapi\obj\Debug\net9.0\blogapi.genruntimeconfig.cache
 C:\Desktop\blogapi\obj\Debug\net9.0\ref\blogapi.dll
-=======
->>>>>>> Stashed changes
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Azure.Core.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Azure.Identity.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Humanizer.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\Mono.TextTemplating.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\System.ClientModel.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\System.CodeDom.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\System.Composition.Convention.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\System.Composition.Hosting.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\System.Composition.Runtime.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\System.Composition.TypedParts.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\System.Drawing.Common.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\System.Memory.Data.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\System.Runtime.Caching.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\System.Security.Permissions.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\System.Windows.Extensions.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Codestack lectures\blogapi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-<<<<<<< Updated upstream
-=======
->>>>>>> d527a1c3c0e578fbd1ef236dd5349273ffc20305
->>>>>>> Stashed changes

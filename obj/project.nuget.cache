@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "apSv6o2/Bvg=",
+  "dgSpecHash": "Nzh11j9p3AU=",
   "success": true,
-  "projectFilePath": "C:\\Codestack lectures\\blogapi\\blogapi.csproj",
+  "projectFilePath": "C:\\Desktop\\blogapi\\blogapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\littl\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\littl\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
